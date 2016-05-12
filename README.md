@@ -1,4 +1,4 @@
-This repository contains [jupyter](http://jupyter.org/) notebooks to accompnay a reading group in Scala. To run these notebooks you will need to install jupyter with the [Scala kernel](https://github.com/alexarchambault/jupyter-scala).
+This repository contains [jupyter](http://jupyter.org/) notebooks to accompany a reading group in Scala. To run these notebooks you will need to install jupyter with the [Scala kernel](https://github.com/alexarchambault/jupyter-scala).
 
 * jupyter recommends Python 3. If you are on a Mac you can use [Homebrew](http://brew.sh/) to install Python3: `brew install python3`
 * Use pip to install jupyter: `pip3 install jupyter`
